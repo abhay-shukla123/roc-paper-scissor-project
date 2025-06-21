@@ -15,3 +15,6 @@
     JavaScript (Vanilla JS)
 
 ![Rock Paper Scissors Game](images/Screenshot.png)
+
+Author
+    .Abhay Shukla
