@@ -17,4 +17,4 @@
 ![Rock Paper Scissors Game](scr.png)
 
 <h3>Author</h3>
-    <h5>Abhay Shukla</h5>
+    <h6>Abhay Shukla</h6>
