@@ -1,20 +1,20 @@
-# Rock Paper Scissors Game
-    A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
-    Play against the computer and test your luck & reflexes..
+#<h3>Rock Paper Scissors Game</h3>
+    <p>A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.</p>
+    <p>Play against the computer and test your luck & reflexes..</p>
 
-*Features:-<br>
-    One-player mode (vs computer)<br>
-    Random computer moves<br>
-    Clean and user-friendly design<br>
-    Reset and play again<br>
-    Responsive design (optional)<br>
+<h3>*Features:-</h3><br>
+    <p>One-player mode (vs computer)</p><br>
+    <p>Random computer moves</p><br>
+    <p>Clean and user-friendly design </p><br>
+    <p>Reset and play again</p><br>
+    <p>Responsive design (optional)</p><br>
 
-*Tech Stack<br>
-    HTML5<br>
-    CSS3<br>
-    JavaScript (Vanilla JS)<br>
+<h3>*Tech Stack</h3><br>
+    <p>HTML5</p><br>
+    <p>CSS3</p><br>
+    <p>JavaScript (Vanilla JS)</p><br>
 
-![Rock Paper Scissors Game](images/Screenshot.png)<br>
+![Rock Paper Scissors Game](Screenshot.png)<br>
 
-Author<br>
-    .Abhay Shukla
+<h3>Author</h3><br>
+    <h5>.Abhay Shukla</h5>
